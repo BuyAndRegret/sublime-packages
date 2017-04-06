@@ -2,5 +2,6 @@
     <content><![CDATA['(]]></content>
     <tabTrigger>(</tabTrigger>
     <scope>source.lisp</scope>
+    <scope>source.lsp</scope>
     <description>'(</description>
 </snippet>
